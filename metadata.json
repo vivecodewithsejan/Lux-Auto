@@ -1,0 +1,7 @@
+{
+  "name": "LuxAuto - Luxury Dealership",
+  "description": "A premium automotive platform for browsing and purchasing high-end luxury vehicles, featuring a Gemini-powered AI Concierge for personalized assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
